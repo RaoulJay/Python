@@ -1,4 +1,4 @@
 # Python
-Python code
-Add any Python materials
+Python codes
+and any Python materials or learnings
 
