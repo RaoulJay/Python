@@ -1,1 +1,9 @@
+age = int(input("Enter dog's age in human years: "))
+if age <=2:
+print(10.5 * age)
+else: print("Dog's age in dog years is: ",21 + 4 * (age - 2)
+
+
+
+
 
