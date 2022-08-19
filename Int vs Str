@@ -1,1 +1,8 @@
+while True:
+    n=input("Enter any Integer: ")
 
+    if n.isdigit():
+        print("Thanks for entering an integer")
+
+    else:
+        print("You have not entered an integer")
