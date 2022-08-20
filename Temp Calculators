@@ -1,1 +1,9 @@
+fah = float(input("Enter Fahrenheit Temperature: "))
+cel = (fah - 32) * 5/9
+print('Celcius Temperature: {0}'.format(cel))
 
+
+
+cel = float(input("Enter Celcius Temperature: "))
+fah = (cel * 9/5) + 32
+print('Fahrenheit Temperature: ',fah)
