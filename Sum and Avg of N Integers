@@ -7,4 +7,5 @@ for n in range (num):
 
 avg = total_sum / num
 
+print("Total is: " , total_sum)
 print("Average is :" , avg)
